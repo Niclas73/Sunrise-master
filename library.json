@@ -1,0 +1,13 @@
+{
+  "name": "Sunrise",
+  "keywords": "CO2, Carbon dioxide, sensor",
+  "description": "Library for i2c communication with the Sunrise CO2-sensor from Senseair",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "frameworks": "arduino",
+  "platforms": "esp32",
+  "version": "1.0.0"
+}

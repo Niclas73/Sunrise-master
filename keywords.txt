@@ -1,0 +1,51 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+# KEYWORD1 Classes, datatypes, and C++ keywords
+# KEYWORD2 Methods and functions
+# KEYWORD3 setup and loop functions, as well as the Serial keywords
+# LITERAL1 Constants
+# LITERAL2 Built-in variables (unused by default)
+
+#######################################
+# Classes, datatypes and keywords (KEYWORD1)
+#######################################
+sunrise 			KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+initSunrise			KEYWORD2
+readErrorStatus			KEYWORD2
+readChipTemp			KEYWORD2
+readMeasurementCount		KEYWORD2
+readMeasurementCycleTime	KEYWORD2
+readCO2				KEYWORD2
+readCalibrationStatus		KEYWORD2
+clearCalibrationStatus		KEYWORD2
+setCalibrationCommand		KEYWORD2
+readCalibrationTarget		KEYWORD2
+writeCalibrationTarget		KEYWORD2
+readABCTime			KEYWORD2
+writeABCTime			KEYWORD2
+startSingleMeasurement		KEYWORD2
+setMeasurementMode		KEYWORD2
+setMeasurementPeriod		KEYWORD2
+setNbrSamples			KEYWORD2  
+setABCPeriod			KEYWORD2
+clearErrorStatus		KEYWORD2
+setABCTarget			KEYWORD2
+setIIRFilter			KEYWORD2
+resetSensor			KEYWORD2
+readMeterControl		KEYWORD2
+setMeterControl			KEYWORD2
+setI2cAddress			KEYWORD2
+readPowerDownData		KEYWORD2
+writePowerDownData		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#	LITERAL1
